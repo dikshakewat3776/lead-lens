@@ -6,14 +6,14 @@ FastAPI + PostgreSQL + Redis backend and React (Leaflet + Chart.js) UI for India
 ## Portal
 
 Map/dashboard view:
-![](./images/Map.png)
-![](./images/Portfolio.png)
+![](./images/map.png)
+![](./images/portfolio.png)
 
 Cross-sell + similar leads:
-![](./images/MapFilters.png)
+![](./images/mapfilters.png)
 
 Leads table (filtered):
-![](./images/Leads.png)
+![](./images/leads.png)
 
 
 ## Prerequisites
